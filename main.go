@@ -9,7 +9,7 @@ import (
 
 var (
 	DEFAULT_ALPHA      float64 = 0.01
-	DEFAULT_ITERATIONS int     = 2
+	DEFAULT_ITERATIONS int     = 20
 )
 
 type LinearRegressionModel struct {
